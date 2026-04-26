@@ -5,7 +5,7 @@ class Rectangle:
 
     def input(self):
         self.length = float(input("Enter the Length : "))
-        self.breadth = float(input("Enter the Breadth : 65"))
+        self.breadth = float(input("Enter the Breadth : "))
 
     def area(self):
         a = self.length * self.breadth
