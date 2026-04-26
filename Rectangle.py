@@ -19,4 +19,3 @@ react = Rectangle()
 react.input()
 react.area()
 react.perimeter()
-
