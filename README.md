@@ -108,7 +108,7 @@ This program helps beginners understand:
 * Add method to check square (`length == breadth`)
 * Return values instead of printing
 * Create menu-driven program
-
+* 
 ---
 
 ## 📄 License
